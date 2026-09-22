@@ -1,0 +1,11 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+data/raw/
+data/processed/
+*.pt
+*.bin
+*.safetensors
+outputs/checkpoints/
+.ipynb_checkpoints/
